@@ -1,9 +1,9 @@
 # スッキリわかるC言語入門 第1版　書籍掲載コード
 
-C言語入門書籍『[スッキリわかるC言語入門 第1版](https://sukkiri.jp/books/sukkiri_c)』（インプレス, 2018）の誌面掲載プログラムリスト集です。[LICENSE.txt](https://github.com/miyabilink/sukkiri-sc-codes/raw/main/LICENSE.txt) の条件に基づきご利用ください。  
+C言語入門書籍『[スッキリわかるC言語入門 第1版](https://sukkiri.jp/books/sukkiri_c)』（インプレス, 2018）の誌面掲載プログラムリスト集です。[LICENSE.txt](https://github.com/miyabilink/sukkiri-c-codes/raw/main/LICENSE.txt) の条件に基づきご利用ください。  
 
 ## 配布用ZIPファイル
-研修や講義に便利な再配布用ZIPファイルは　→ 　🎁 [sukkiri-c-codes.zip](https://github.com/miyabilink/sukkiri-sc-codes/releases/download/v1.3/sukkiri-c-codes.zip) 
+研修や講義に便利な再配布用ZIPファイルは　→ 　🎁 [sukkiri-c-codes.zip](https://github.com/miyabilink/sukkiri-c-codes/releases/latest/download/sukkiri-c-codes.zip)
 
 ## 不具合を発見した場合
 紙面に関係するものは、書籍奥付記載の出版社サポート窓口までお問い合わせください。
@@ -13,4 +13,3 @@ C言語入門書籍『[スッキリわかるC言語入門 第1版](https://sukki
 「初学者ファースト」を旗印に、Java・Python・C言語・SQLなどをラインナップするIT入門書シリーズです。現役の「技術者 兼 技術指導者」のみが著者として執筆し、初学者特有の悩みやつまづきに対してきめ細かくフォローアップできる構成・解説を心がけています。
 
 　→ [執筆著者陣によるサポートサイト (sukkiri.jp）](https://sukkiri.jp/)
-
